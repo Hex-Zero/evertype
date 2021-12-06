@@ -1,0 +1,9 @@
+{
+    "name": "EverType",
+    "description": "Type text on any page",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "main.js"
+    }
+  }
